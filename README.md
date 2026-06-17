@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td align="center" width="22%">
-      <img src="logo.png" width="140" alt="Umindu Isith Logo" />
+      <img src="Logo.png" width="140" alt="Umindu Isith Logo" />
     </td>
     <td align="center" width="78%">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00D2FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Umindu+Isith+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%7C+Java" alt="Intro typing" />
