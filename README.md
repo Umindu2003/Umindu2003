@@ -18,6 +18,17 @@
 
 <table>
   <tr>
+    <td align="center" width="22%">
+      <img src="logo.png" width="140" alt="Umindu Isith Logo" />
+    </td>
+    <td align="center" width="78%">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00D2FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Umindu+Isith+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+%7C+Java" alt="Intro typing" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center" width="50%">
       <table>
         <tr>
@@ -59,20 +70,13 @@
 
 ## ✦ Signature
 
-<table>
-  <tr>
-    <td width="58%" valign="middle" align="center">
-      <img src="logo.png" width="380" alt="Umindu Isith Logo" />
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00D2FF&center=true&vCenter=true&width=320&height=90&lines=Code+without+purpose+is+just+text.;Built+with+intent.+Shipped+with+care.;Vision+beyond+syntax." alt="Signature line" />
-      <br/><br/>
-      <a href="https://www.uminduisith.site">
-        <img src="https://img.shields.io/badge/View%20Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d2ff" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="logo.png" width="380" alt="Umindu Isith Logo" />
+  <br/><br/>
+  <a href="https://www.uminduisith.site">
+    <img src="https://img.shields.io/badge/View%20Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d2ff" />
+  </a>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:00d2ff&height=3&section=header" width="100%"/>
