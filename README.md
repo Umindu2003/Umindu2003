@@ -62,7 +62,7 @@
 <table>
   <tr>
     <td width="58%" valign="middle" align="center">
-      <img src="assets/logo.png" width="380" alt="Umindu Isith Logo" />
+      <img src="logo.png" width="380" alt="Umindu Isith Logo" />
     </td>
     <td width="42%" valign="middle" align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=00D2FF&center=true&vCenter=true&width=320&height=90&lines=Code+without+purpose+is+just+text.;Built+with+intent.+Shipped+with+care.;Vision+beyond+syntax." alt="Signature line" />
