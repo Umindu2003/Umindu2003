@@ -68,22 +68,6 @@
 
 ---
 
-## ✦ Signature
-
-<div align="center">
-  <img src="logo.png" width="380" alt="Umindu Isith Logo" />
-  <br/><br/>
-  <a href="https://www.uminduisith.site">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00d2ff" />
-  </a>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,100:00d2ff&height=3&section=header" width="100%"/>
-</div>
-
----
-
 ## 🏎️ On Track
 
 <div align="center">
